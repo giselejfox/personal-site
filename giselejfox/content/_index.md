@@ -3,6 +3,6 @@ title: "Gisele Fox"
 date: 2022-05-30T17:37:52-07:00
 ---
 
-Welcome to my website! A host of all that I find interesting. Below are the projects I'm working on right now and 
+Welcome to my website! A host of all that I find interesting. 
 
-Test that [this can be a link](/another-post) can be a link
+Here you can browse all the personal and school related projects I've worked on over the past couple years as well as a 
