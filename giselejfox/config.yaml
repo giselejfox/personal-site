@@ -17,7 +17,7 @@ imaging:
   quality: 99
 
 params:
-  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
+  description: 
   homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
   # For more date formats see https://gohugo.io/functions/format/
@@ -29,7 +29,7 @@ params:
   showThemeSwitcher: true
   defaultDarkTheme: false
   moveFooterToHeader: false
-  # navTitleText: Cupper Theme
+  #navTitleText: Cupper Theme
   logoAlt: An alternative text description of the logo
   customCss:
     - css/custom_01.css
