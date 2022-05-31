@@ -4,3 +4,7 @@
 [submodule "giselejfox/themes/cupper-hugo-theme"]
 	path = giselejfox/themes/cupper-hugo-theme
 	url = https://github.com/zwbetz-gh/cupper-hugo-theme.git
+[submodule "giselejfox/public"]
+	path = giselejfox/public
+	url = https://github.com/giselejfox/giselejfox.github.io.git
+	branch = main
