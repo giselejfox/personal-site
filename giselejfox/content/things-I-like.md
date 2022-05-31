@@ -26,7 +26,9 @@ date: 2022-05-30T17:37:52-07:00
 
 
 <div class="row">
-  <div class="column">test</div>
+  <div class="column">
+    <img src="images/poet_square_cat.jpg">
+  </div>
   <div class="column">test</div>
 </div>
 
