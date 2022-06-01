@@ -43,13 +43,13 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Blog/Projects
+    - name: Projects
       url: /post/
       weight: 2
     - name: Tags
       url: /tags/
       weight: 3
-    - name: Things I Like
+    - name: Current Likes
       url: /things-I-like
       weight: 4
     - name: About

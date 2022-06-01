@@ -3,15 +3,19 @@ title: "Things I Like"
 date: 2022-05-30T17:37:52-07:00
 ---
 
+
 ## ...in my day
 {{< ticks >}}
 * tea with a glob of fancy honey
-* sunscreen and sunny walks
 * knitting in a park while listening to my knitting in a park playlist
+* taking loving photos of my friends
+* stretching
 {{< /ticks >}}
 
 
-## ...on tiktok
+## ...to watch
+
+### on tiktok
 
 <div class="row">
   <div class="column pic-column">
@@ -30,7 +34,31 @@ date: 2022-05-30T17:37:52-07:00
   </div>
 </div>
 
+- second chancer
+- madeline pendleton
+- garburator
+- foraged fibers
+- akintoye
+- catlimunati
 
 
-## ...on youtube
+### on youtube
 
+- best dressed
+- corridor crew
+
+
+### anywhere else
+
+<div class="row">
+  <div class="column">
+    <img class="til-image" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/f6/e9/8e/f6e98e5a-f063-bf54-a8fd-01037a88eab7/mza_12399445947373767297.jpg/1200x1200bb.jpg"/>
+  </div>
+  <div class="column descr-column">
+    <a href="https://twitter.com/dimension20show">Dimension 20</a> - An actualplay tabletop roleplay game led by the lovable Brennan Lee Mulligan (most of the time) and played by a cast of professional comedians, improvisors, and writers. I can't even begin to start to calclate how much time I've spent watching this crew and I don't regret a second of it!
+  </div>
+</div>
+
+- Dropout D&D
+- Barry
+- About time
