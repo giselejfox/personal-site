@@ -49,7 +49,7 @@ menu:
     - name: Tags
       url: /tags/
       weight: 3
-    - name: Current Likes
+    - name: Things I Like
       url: /things-I-like
       weight: 4
     - name: About
