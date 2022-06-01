@@ -30,7 +30,7 @@ params:
   defaultDarkTheme: false
   moveFooterToHeader: false
   navTitleText: 
-  logoAlt: An alternative text description of the logo
+  logoAlt: Drawing of Gisele
   customCss:
     - css/custom_01.css
     - css/custom_02.css
