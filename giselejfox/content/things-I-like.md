@@ -1,7 +1,6 @@
 ---
 title: "Things I Like"
 date: 2022-05-30T17:37:52-07:00
-toc: true
 ---
 
 A master list I add to from time to time
