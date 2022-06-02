@@ -8,6 +8,14 @@ A master list I add to from time to time
 
 <div class="row">
   <div class="column pic-column">
+    <img class="til-image" alt="dear hank and john logo" src="http://cdn.shopify.com/s/files/1/0506/0633/products/dear-hank-and-john-decal.jpg?v=1528743382"/>
+  </div>
+  <div class="column descr-column">
+    <a href="https://podcasts.apple.com/us/podcast/dear-hank-john/id1002937870">Dear Hank and John</a> - A banter podcast between two brothers, Hank Green and John Green, that I could probably listen to until the end of time. Whenever I need some comfort after a long day I'll pop on some headphones, take a walk at sunset, and listen in.
+  </div>
+</div>
+<div class="row">
+  <div class="column pic-column">
     <img class="til-image" alt="man standing in doorway" src="https://i.ytimg.com/vi/nFu7zE9DnRA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaAdpxDkQBRB2y13cledazfG1CDw"/>
   </div>
   <div class="column descr-column">
@@ -24,7 +32,7 @@ A master list I add to from time to time
 </div>
 <div class="row">
   <div class="column">
-    <img class="til-image" alt="man on a bike with the words ride finds pink juice at the top" src="https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/10a684ae78344283af239b2ee0a8728c_1652648204~tplv-dmt-logom:tos-useast5-p-0000-tx/5e5daadffc09475da2487bb1f212a76f.image?x-expires=1654041600&x-signature=8srDkyiBE0i3laReDWfAFF5evH4%3D"/>
+    <img class="til-image" alt="man on a bike with the words ride finds pink juice at the top" src="https://i.pinimg.com/564x/e9/46/8d/e9468d32463ac06446c21c8f795ede88.jpg"/>
   </div>
   <div class="column descr-column">
     <a href="https://www.tiktok.com/t/ZTd7bXfRL/">Gino Villafono</a> - A Connecticut based cyclist on tiktok who picks up trash-- whoop *ride finds* and shares wisdom on his biking commute. He shares a great sense of doing what works for you and getting excited about the little things in life.
