@@ -3,8 +3,8 @@ title: "About"
 date: 2022-05-30T17:37:52-07:00
 ---
 
-(Work in progress)
+(work in progress)
 
-Hello! My name is Gisele and I'm a rising senior at the University of Washington graduating with a degree in Informatics.
+Hello! My name is Gisele, I'm currently a rising senior at the University of Washington graduating with a degree in informatics. 
 
-Usually you can find me knitting, reworking my Notion setup, aparticipating in wannabe minimalism, or taking loving photos of my friends.
+You can usually find me knitting, reworking my Notion setup, indulging in wannabe minimalism, or taking loving pictures of my friends.
