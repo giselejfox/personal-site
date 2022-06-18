@@ -7,6 +7,14 @@ A master list I add to from time to time
 
 <div class="row">
   <div class="column pic-column">
+    <img class="til-image" alt="dear hank and john logo" src="https://images.genius.com/c57cb45f6ae12ca23e8c22fb8aa61266.1000x1000x1.jpg"/>
+  </div>
+  <div class="column descr-column">
+    <a href="https://open.spotify.com/album/3UVxs4HGKC84VG8kQdRjJz?si=YVEFR5elRXOCa5STxrdbdA">Semler's Latest Album</a> - A Christian Gay Rock album that slaps!! I got to see them play at a small venue (Fremont Abbey Arts) and it was equal parts standup and musical set. They're relatively new and I can't wait to follow them through the rest of their musical journey!
+  </div>
+</div>
+<div class="row">
+  <div class="column pic-column">
     <img class="til-image" alt="dear hank and john logo" src="http://cdn.shopify.com/s/files/1/0506/0633/products/dear-hank-and-john-decal.jpg?v=1528743382"/>
   </div>
   <div class="column descr-column">
