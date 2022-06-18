@@ -3,10 +3,8 @@ title: "Gisele Fox"
 date: 2022-05-30T17:37:52-07:00
 ---
 
-Welcome to my website! A host of all that I find interesting. 
+Welcome to my website! 
 
-In the **Projects** page you'll find all my favorite projects I've done as of late all the way from self-made knitting patterns to podcasts and coding projects.
+Right now this serves as a blog to document my experience with the iSchool-Honors Netherlands Study Abroad program. It's a 4 week long program that examines how innovation works in library, information, and museum services, practices, and designs in the Netherlands and Belgium. 
 
-If you want to learn more about me check out my **Things I Like** page for a master list of, you guessed it, things I like. 
-
-You can also head to the **About** page to read a more classic introduction along with a lil' life story.
+I'll be posting at least 3 times a week journaling, analyzing, and reflecting on the site visits and the lectures I attend. Needless to say I'm incredibly excited!
