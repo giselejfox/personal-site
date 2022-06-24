@@ -5,12 +5,37 @@ draft: true
 
 # Post Ideas
 
-## Barriers to Co-creation
+## Academic or Amsterdam based (not super me focused but my own input)
+
+### Barriers to Co-creation in college
 - start off by saying what is co creation
 - why it's hard to cocreate in college projects
 - why that feels off
 
-## Gisele's efforts in community building
+### A reflection on the role of museums and their ability to change and adapt to modern day visitors in the modern day
+
+### Relocation of the royal library and what that'll look like
+
+### It's okay to be outside in Amsterdam
+
+
+## Kind of me focused and my relation to the material/amsterdam
+
+### Ode to working in a physical space
+seems more fulfilling than digital, you're working with actual environments
+me just complaining about informatics
+
+### My experiences with the 10 faces of innovation 
+
+
+## Misc
+
+### Why I like these types of lectures
+- discussion based
+- short in the day
+- feels like a genuine conversation and everybody's interested
+
+### Gisele's efforts in community building
 - explanation that I was scared to go on the trip
 - explaining how I usually interact (questions)
 - giving some examples of what I did
@@ -24,13 +49,11 @@ draft: true
     - ask a good funny question
         - if you would be a furniture what would you be? - it's nice to see how someone imagines themselves as being maybe useful or somewhere comfortable for someone to return to... very interesting
 
-## The Belinda Experience
+### The Belinda Experience
 - What happened
 - Why I liked talking to her (she was very honest and felt a lot of emotions)
 
-## Ode to working in a physical space
-seems more fulfilling than digital, you're working with actual environments
-me just complaining about informatics
+
 
 
 
