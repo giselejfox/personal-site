@@ -10,7 +10,7 @@ caption="The view from a 6am run"
 command="Resize" 
 options="700x" >}}
 
-I got up the first day of the program at 5:30 and decided to call it a start. I ended up going for a run and because Amsterdam is so north it was broad daylight at 6:00am and completely empty, I got the city to myself!
+I got up the first day of the program at 5:30 and decided to call it a start. I ended up going for a run and because Amsterdam is so north it was broad daylight at 6:00am and completely empty, I got the city to myself! It was such a beautiful treat to be able to zip past all the amazing architecture and the hug the canals while downloading the google maps of the area to my noggin.
 
 After breakfast we had lecture, all in the brekafast room of the small hotel that holds only us 23 students for the entirety of our program. It was fully discussion based, no powerpoint in sight and even though that held my attention and I felt more engaged than regular lecture I still found myself skecthing to keep the wiggles out.
 
