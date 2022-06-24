@@ -1,7 +1,7 @@
 ---
 title: Greeting Amsterdam (June 19th Recap)
 draft: false
-date: 2022-06-21
+date: 2022-06-20
 ---
 
 {{< figureCupper

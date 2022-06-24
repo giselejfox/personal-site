@@ -1,7 +1,7 @@
 ---
 title: Off to a Running Start (June 20th Recap)
 draft: false
-date: 2022-06-20
+date: 2022-06-21
 ---
 
 {{< figureCupper
