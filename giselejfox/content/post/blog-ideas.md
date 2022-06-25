@@ -16,7 +16,6 @@ draft: true
 
 ### Relocation of the royal library and what that'll look like
 
-### It's okay to be outside in Amsterdam
 
 
 ## Kind of me focused and my relation to the material/amsterdam
@@ -26,6 +25,9 @@ seems more fulfilling than digital, you're working with actual environments
 me just complaining about informatics
 
 ### My experiences with the 10 faces of innovation 
+
+### It's okay to be outside in Amsterdam
+
 
 
 ## Misc
