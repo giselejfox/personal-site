@@ -26,8 +26,6 @@ me just complaining about informatics
 
 ### My experiences with the 10 faces of innovation 
 
-### It's okay to be outside in Amsterdam
-
 
 
 ## Misc
@@ -56,6 +54,9 @@ me just complaining about informatics
 - Why I liked talking to her (she was very honest and felt a lot of emotions)
 
 
+# Posted!
+
+### It's okay to be outside in Amsterdam
 
 
 
