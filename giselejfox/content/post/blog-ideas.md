@@ -16,6 +16,19 @@ draft: true
 
 ### Relocation of the royal library and what that'll look like
 
+### Innovation is about reframing what problems are
+- simple example the book ferry
+    - there was a fair amount of time on the ferry that was spent unused and just for commute. This gal saw the opportunity to get people together and use that time for community building and book reading.
+- we talked about latchey kids and how they are a problem to libraries. Well let's take a different look, it's not a problem it's a community need. How can we innovate to meet that community need.
+- Similar thoughts can go into immigration, is it a problem or a resource. Why isn't it better to have more people in a place where they can thrive. 
+- Even the "slower" healthcare system here, they made a system that can meet the needs of everybody and it does slow it down but everyone can be helped in some capacity. It still works and people are still healthy.
+- Life could be so much better if we take a look at problems and see them for what they actually are: community needs.
+    - latchkey kids -> create a space for kids to come in the specific hours after school
+
+### Analyzing and contrasting amsterdam and Seattle's public facing information of public policy and urban planning. Then go in and see how they're actually moving forward on those innitiatives
+- why their approaches are different
+    - amsterdam has a constrained city limit, seattle doesn't(?)
+
 
 
 ## Kind of me focused and my relation to the material/amsterdam
