@@ -3,7 +3,8 @@ title: Blog Ideas
 draft: true
 ---
 
-# Post Ideas
+_____________________________________________________________________
+_____________________________________________________________________
 
 ## Academic or Amsterdam based (not super me focused but my own input)
 
@@ -11,8 +12,6 @@ draft: true
 - start off by saying what is co creation
 - why it's hard to cocreate in college projects
 - why that feels off
-
-### A reflection on the role of museums and their ability to change and adapt to modern day visitors in the modern day
 
 ### Relocation of the royal library and what that'll look like
 
@@ -31,6 +30,10 @@ draft: true
 
 
 
+
+_____________________________________________________________________
+_____________________________________________________________________
+
 ## Kind of me focused and my relation to the material/amsterdam
 
 ### Ode to working in a physical space
@@ -40,6 +43,12 @@ me just complaining about informatics
 ### My experiences with the 10 faces of innovation 
 
 
+
+
+
+
+_____________________________________________________________________
+_____________________________________________________________________
 
 ## Misc
 
@@ -67,11 +76,29 @@ me just complaining about informatics
 - Why I liked talking to her (she was very honest and felt a lot of emotions)
 
 
+_____________________________________________________________________
+_____________________________________________________________________
+
+# Just Me Blogs
+
+### An Ode to getting stuck knitting
+
+
+
+_____________________________________________________________________
+_____________________________________________________________________
+
 # Posted!
 
 ### It's okay to be outside in Amsterdam
 
+### A reflection on the role of museums and their ability to change and adapt to modern day visitors in the modern day
 
+
+
+
+_____________________________________________________________________
+_____________________________________________________________________
 
 # Archive
 

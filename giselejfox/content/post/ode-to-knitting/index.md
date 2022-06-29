@@ -1,0 +1,17 @@
+---
+title: Intentional Design in Museums Connecting Past to Present
+draft: false
+date: 2022-06-29
+---
+
+I didn't realize I get stuck knitting until about a week after getting into Amsterdam. And I don't mean stuck as in I can't do it or I somehow find myself at an unsolvable problem but I find myself not able to do anything else. I get stuck knitting. It buffers me from leaving the room to do something else, it keeps me from doing schoolwork, all I can do sometimes is sit and move the yarn back and forth between the needles.
+
+I realized this because I didn't have any knitting the first week and I was a well oiled machine. I was out of the room all day, seeing the sights of the city and not having any trouble moving from place to place. Then I traveled into the city to visit famous knitter [Stephen West's](https://www.instagram.com/westknits/) store to grab a project I could work on during class. They're simple enough socks but a weird realization happened when I was all dressed up to leave the room and found myself back sitting on the bed knitting at least two more lines before I could go. That doesn't seem bad but now I'm sitting on the bed after having rested all day and knitting is simply the only thing I actually want to do.
+
+I don't know why I like it so much, or even just find myself doing it so much. Maybe it's because it's one of the only skills I've stuck with over years. Usually hobbies fall in and out but knitting has been decently consistent. I don't even produce that many finished objects, I just start projects that seem cool and then unravel them when I realize they might take longer than a day. Sometimes I realize I might only need to go through the motions and settle down to make a swatch of a yarn I haven't tested out yet. Just a roughly 4x4 square that I can gaze at and feel the tight stitches between my fingers.
+
+Knitting is time consuming, just one sock has spanned multiple train rides and lectures and I'm not even done with the heel. Why do I spend so much time on it? Why is it so addicting? There's always a better project to do going on in my mind even when I'm knitting in that moment. Currently I'm trying to wrap my brain around trying out a fusion of an [Annie Lee](https://www.instagram.com/annieleelarson/) Larson and [Novaks Knits](https://www.instagram.com/novvaks_knits/) styles baby sweater).
+
+Is this a bad thing? Should I feel shame? I get stuck online shopping as well. Hours poured into scrolling through every option of a straight legged long black pant or a collection of a new minimalist wardrobe with zero purhcases in the end. It ends up being an outlet for the ever analyzing human brain I contain up top. It seems semi-productive but it feels like a drug? What does that mean. Even now I want to be knitting more than I want to be writing this but how can I get myself to do other things? Maybe just knit until a better thought or idea comes to mind and then write it down? What other ways can I put my EAB (ever analyzing brain) to use. Maybe not even for a productive manner but just to switch it up sometimes.
+
+So maybe getting stuck is okay and what I can do is just try to switch up how and where I get stuck. Maybe I should try getting stuck knitting outside sometimes in a park or a library. Maybe instead of closing all my tabs after getting stuck I make a synopsis of my online shopping findings and why I found them the way I did. Maybe I just get stuck sometimes and allow it. Maybe I try and get stuck with friends around and we can get stuck together. 
