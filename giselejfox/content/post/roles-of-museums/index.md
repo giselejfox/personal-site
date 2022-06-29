@@ -1,7 +1,7 @@
 ---
 title: Intentional Design in Museums Connecting Past to Present
 draft: false
-date: 2022-06-24
+date: 2022-06-28
 ---
 
 The first day of our program we sat down in the breakfast nook of our hotel to discuss what were seemingly simple questions: what is a museum, what is a library, and what is an archive.
