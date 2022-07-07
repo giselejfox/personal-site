@@ -1,6 +1,7 @@
 ---
 title: Blog Ideas
 draft: true
+date: 2022-06-30
 ---
 
 
@@ -100,7 +101,7 @@ _____________________________________________________________________
 
 ### A reflection on the role of museums and their ability to change and adapt to modern day visitors in the modern day
 
-
+### The incredible OBA and designing the library to value the books
 
 
 _____________________________________________________________________
